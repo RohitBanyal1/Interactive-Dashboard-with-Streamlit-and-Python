@@ -1,13 +1,28 @@
-# Interactive Dashboard with Streamlit and Python
+# Project: Interactive Dashboard with Streamlit and Python
 
-•Used the Twitter US Airline Sentiment Data
+## Project Overview
 
-•Displayed Tweets in the Sidebar
+Interactive dashboard that displays information about the sales of a company. The dashboard will allow us to explore the data, visualize it using various charts and interact with it using different widgets.
 
-•Plotted Interactive Bar Plots and Pie Charts
+• Used the Twitter US Airline Sentiment Data  
 
-•Plotted Location Data on an Interactive Map
+• Displayed Tweets in the Sidebar  
 
-•Plotted Number of Tweets by Sentiment for Each Airline
+• Plotted Interactive Bar Plots and Pie Charts  
 
-•Word Cloud for Positive, Neutral, and Negative Tweets
+• Plotted Location Data on an Interactive Map  
+
+• Plotted Number of Tweets by Sentiment for Each Airline  
+
+• Word Cloud for Positive, Neutral, and Negative Tweets  
+
+## Tools and Libraries
+
+• Python  
+• Streamlit  
+• Pandas  
+• Plotly  
+
+## Author
+
+This project was creatd by Rohit Banyal.
